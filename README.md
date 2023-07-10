@@ -16,3 +16,8 @@ The ESP32 camera will continue live streaming.
 If a RFID sensor detects the person with the key/tag, the ESP32 camera will click its picture just to be sure with extra security. 
 If the RFID sensor doesn’t detect anything but the PIR does for around 2 minutes (i.e. an unknown person is encountered), a message will be sent to the receiver’s phone number. 
 If both RFID and PIR sensors don’t detect anything, live streaming continues.
+
+
+Link for the video:
+https://youtu.be/NljcVzv3_sA
+
